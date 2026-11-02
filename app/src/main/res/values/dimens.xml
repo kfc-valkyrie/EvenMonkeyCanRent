@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="content_max_width">480dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="button_corner">12dp</dimen>
+    <dimen name="indicator_height">6dp</dimen>
+    <dimen name="indicator_width_active">36dp</dimen>
+    <dimen name="indicator_width_inactive">16dp</dimen>
+    <dimen name="indicator_gap">8dp</dimen>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Even monkey can rent</string>
+
+    <!-- Экран загрузки -->
+    <string name="splash_slogan">Поможем найти твою следующую поездку</string>
+
+    <!-- Нет подключения -->
+    <string name="no_connection_title">Нет подключения\nк интернету</string>
+    <string name="no_connection_message">Проверьте подключение и повторите попытку</string>
+    <string name="no_connection_retry">Повторить попытку</string>
+    <string name="no_connection_still_offline">Подключение к интернету отсутствует</string>
+
+    <!-- Онбординг -->
+    <string name="onboarding_skip">Пропустить</string>
+    <string name="onboarding_next">Далее</string>
+    <string name="onboarding_start">Поехали</string>
+    <string name="onboarding_title_1">Машина всегда рядом</string>
+    <string name="onboarding_description_1">Найди автомобиль поблизости и отправляйся в путь за бананами</string>
+    <string name="onboarding_title_2">Спокойствие в каждой поездке</string>
+    <string name="onboarding_description_2">Каждый автомобиль проверяется перед выдачей, а обезьяны в поддержке всегда на связи</string>
+    <string name="onboarding_title_3">Выбор на любой вкус</string>
+    <string name="onboarding_description_3">Сравнивай цены и бери то, что подходит именно тебе</string>
+
+    <!-- Заглушки следующих лабораторных -->
+    <string name="auth_placeholder">Экран входа / регистрации\n(будет реализован в следующих лабораторных)</string>
+    <string name="home_placeholder">Главный экран\n(будет реализован в следующих лабораторных)</string>
+
+    <!-- Ошибки -->
+    <string name="error_title">Ошибка</string>
+    <string name="error_unknown">Произошла непредвиденная ошибка. Попробуйте ещё раз.</string>
+    <string name="ok">OK</string>
+</resources>
